@@ -1,0 +1,8 @@
+Alhama de Granada – GitHub Pages
+
+1. Pak dit ZIP-bestand uit.
+2. Open de uitgepakte map Alhama-audiogids.
+3. Upload de INHOUD van die map naar je GitHub-repository. index.html moet rechtstreeks in de hoofdmap staan.
+4. Activeer GitHub Pages vanuit de hoofdmap van de main-branch.
+
+De site bevat 16 stadsaudio’s en 7 museumaudio’s. De aangeleverde GPX is circa 7,44 km lang en is integraal opgenomen en is niet ingekort tot de geplande wandeling van 2 km.
